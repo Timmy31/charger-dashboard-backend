@@ -1,0 +1,40 @@
+# baseURL
+@baseURL = http://localhost:3000
+
+###
+# Find All Chargers
+GET {{ baseURL }}/chargers
+
+###
+# Find User By Id
+GET {{ baseURL }}/chargers/1
+
+###
+# Create User
+POST {{ baseURL }}/chargers
+Content-Type: application/json
+
+{
+    "name": "Test",
+    "serialNumber": "123213123",
+    "chargerType": "Gemini Flex",
+    "isActive": true,
+    "description": "Test description"
+}
+
+###
+# Modify User By Id
+PUT {{ baseURL }}/chargers/1
+Content-Type: application/json
+
+{
+    "name": "Test",
+    "serialNumber": "123213123",
+    "chargerType": "Gemini Flex",
+    "isActive": true,
+    "description": "Test description"
+}
+
+###
+# Delete User By Id
+DELETE {{ baseURL }}/chargers/1
