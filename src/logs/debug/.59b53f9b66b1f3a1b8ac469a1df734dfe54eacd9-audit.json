@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/fitim/Documents/Dashboard-Backend/src/logs/debug/.59b53f9b66b1f3a1b8ac469a1df734dfe54eacd9-audit.json",
+    "files": [
+        {
+            "date": 1664957760644,
+            "name": "/Users/fitim/Documents/Dashboard-Backend/src/logs/debug/2022-10-05.log",
+            "hash": "c2882b545b3b9837bb9d48e4efe5d53de15407f43dc4e6ccb4d448d1603cf101"
+        },
+        {
+            "date": 1665042142572,
+            "name": "/Users/fitim/Documents/Dashboard-Backend/src/logs/debug/2022-10-06.log",
+            "hash": "e7cc685f10d1c199b2683f906711fd56336c4fcae1d151ec9ac6cc72acbfb102"
+        },
+        {
+            "date": 1665129154821,
+            "name": "/Users/fitim/Documents/Dashboard-Backend/src/logs/debug/2022-10-07.log",
+            "hash": "1399a04ac1000f815d5e08a97943e815f9a06b6671127f5f3d71565583f44480"
+        },
+        {
+            "date": 1665386620487,
+            "name": "/Users/fitim/Documents/Dashboard-Backend/src/logs/debug/2022-10-10.log",
+            "hash": "dbb72899dd3a902aca680fedeaeee17583ab741d848adeefdb976770e63681f8"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,20 @@
+2022-10-06 09:42:22 info: [0mGET /chargers [36m304[0m 50.334 ms - -[0m
+2022-10-06 09:42:22 info: [0mGET /chargers [36m304[0m 2.685 ms - -[0m
+2022-10-06 09:46:53 info: [0mGET /chargers [36m304[0m 2.207 ms - -[0m
+2022-10-06 09:48:50 info: [0mGET /chargers [36m304[0m 2.259 ms - -[0m
+2022-10-06 09:48:50 info: [0mGET /chargers [36m304[0m 3.075 ms - -[0m
+2022-10-06 09:49:28 error: [POST] /chargers >> StatusCode:: 409, Message:: This Serial Number 234234234234 already exists
+2022-10-06 09:49:28 info: [0mPOST /chargers [33m409[0m 49.456 ms - 60[0m
+2022-10-06 09:49:34 info: [0mGET /chargers [36m304[0m 3.094 ms - -[0m
+2022-10-06 09:49:34 info: [0mGET /chargers [36m304[0m 3.259 ms - -[0m
+2022-10-06 09:49:55 info: [0mPOST /chargers [32m201[0m 18.662 ms - 158[0m
+2022-10-06 09:50:02 info: [0mGET /chargers [32m200[0m 2.308 ms - 434[0m
+2022-10-06 09:50:02 info: [0mGET /chargers [36m304[0m 3.882 ms - -[0m
+2022-10-06 09:56:31 info: [0mGET /api-docs/ [36m304[0m 0.997 ms - -[0m
+2022-10-06 09:56:31 info: [0mGET /api-docs/swagger-ui.css [36m304[0m 1.161 ms - -[0m
+2022-10-06 09:56:31 info: [0mGET /api-docs/swagger-ui-init.js [36m304[0m 0.400 ms - -[0m
+2022-10-06 09:56:31 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [36m304[0m 3.006 ms - -[0m
+2022-10-06 09:56:31 info: [0mGET /api-docs/swagger-ui-bundle.js [32m200[0m 4.708 ms - -[0m
+2022-10-06 09:56:32 info: [0mGET /api-docs/favicon-32x32.png [36m304[0m 1.968 ms - -[0m
+2022-10-06 11:08:50 info: [0mGET /chargers [36m304[0m 4.843 ms - -[0m
+2022-10-06 11:08:50 info: [0mGET /chargers [36m304[0m 4.934 ms - -[0m
